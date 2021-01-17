@@ -23,6 +23,7 @@ var shuffle = function(nums, n) {
   return ans
 };
 
+
 // Test Case 1 
 var nums = [2,5,1,3,4,7]
 var n = 3

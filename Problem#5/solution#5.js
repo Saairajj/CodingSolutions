@@ -1,3 +1,4 @@
+// Lets write a function for the given problem using javascript
 
 function runningSum( nums) {
   let ans = []
@@ -10,6 +11,6 @@ function runningSum( nums) {
 }
 
 
-let nums = [1, 2, 3, 4]
+let nums = [1, 2, 3, 4, 6, 8, 9, 18]
 let ans = runningSum(nums)
 console.log(ans)
