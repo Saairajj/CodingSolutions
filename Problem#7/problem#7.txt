@@ -1,0 +1,5 @@
+This problem was asked by HackerRank
+
+Convert the given 12hr clock time into 24hr clock time
+
+Eg 12:40:22AM = 00:40:22

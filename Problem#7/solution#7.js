@@ -1,0 +1,1 @@
+// Lets write a function for the given problem using javascript
