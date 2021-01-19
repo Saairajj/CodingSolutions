@@ -1,3 +1,5 @@
+This problem was asked by HackerRank
+
 Every student receives a grade  in the inclusive range 0 from  to 100.
 Any grade less than 40 is a failing grade.
 Sam is a professor at the university and likes to round each student's grade according to these rules:
