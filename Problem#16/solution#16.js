@@ -19,4 +19,20 @@ var countMatches = function(items, ruleKey, ruleValue) {
 };
 
 
-// Driver Code
+
+// Test Case 1
+var items = [["phone","blue","pixel"],["computer","silver","lenovo"],["phone","gold","iphone"]];
+var ruleKey = "color";
+var ruleValue = "silver";
+
+console.log(countMatches(items, ruleKey, ruleValue));
+
+
+
+// Test Case 2
+items = [["phone","blue","pixel"],["computer","silver","phone"],["phone","gold","iphone"]];
+ruleKey = "type";
+ruleValue = "phone";
+
+console.log(countMatches(items, ruleKey, ruleValue));
+
